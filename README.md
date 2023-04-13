@@ -117,111 +117,112 @@ When you choose a class, choose two skills or roll a d8 twice (a result of 8=cho
 - *Mastering* a Skill requires a Master Trainer, but when completed unlocks a special effect for the Skill, decided by the GM. You must have four ranks in the Skill to start Master training.
 
 **Stealth**
-Acrobatics (SPD): Able to perform acrobatic feats.
-	Apprentice: *Able to perform some more difficult feats of acrobatics, such as swinging on a rope.*
-	Journeyman: *Able to perform much harder feats of acrobatics, such as free-running over the city roofs.*
-	Expert: *Able to do nearly impossible feats of acrobatics, such as jumping an extreme height or length.*
+- Acrobatics (SPD): Able to perform acrobatic feats.
+  - Apprentice: *Able to perform some more difficult feats of acrobatics, such as swinging on a rope.*
+  - Journeyman: *Able to perform much harder feats of acrobatics, such as free-running over the city roofs.*
+	- Expert: *Able to do nearly impossible feats of acrobatics, such as jumping an extreme height or length.*
 
-Light Armor (SPD): Clever use of mobility and speed at the cost of protection
-	Apprentice: *Use your action to Dodge: Roll a SPD save to avoid an attack entirely.*
-	Journeyman: *Gain +1 SPD and AGL only when wearing Light Armor.*
-	Expert: *Gain +1 Armor when wearing Light Armor.*
+- Light Armor (SPD): Clever use of mobility and speed at the cost of protection
+	- Apprentice: *Use your action to Dodge: Roll a SPD save to avoid an attack entirely.*
+	- Journeyman: *Gain +1 SPD and AGL only when wearing Light Armor.*
+	- Expert: *Gain +1 Armor when wearing Light Armor.*
 
-Marksman (AGL): Accurate with ranged weapons.
-	Apprentice: *+1 to-hit with ranged weapons for each rank in Marksman.*
-	Journeyman: *+1 damage with ranged weapons. Attack range is doubled.*
-	Expert: *A critical hit targets a body part of your choice. Marksman attacks have a 3-in-6 chance of knocking the target down.*
+- Marksman (AGL): Accurate with ranged weapons.
+	- Apprentice: *+1 to-hit with ranged weapons for each rank in Marksman.*
+	- Journeyman: *+1 damage with ranged weapons. Attack range is doubled.*
+	- Expert: *A critical hit targets a body part of your choice. Marksman attacks have a 3-in-6 chance of knocking the target down.*
 
-Mercantile (PRS): Better prices and bartering.
-	Apprentice: *You can accurately appraise the value of most common items. Negotiating doesn't require a PRS save.*
-	Journeyman: *You can sell nearly any good to nearly any dealer; specialty vendors still have better prices, though. You can also find a dealer for nearly any good.*	Expert: *You can accurately appraise the value of nearly any item, regardless of rarity. Shopkeepers will open their secret stock to you, if they have one.*
+- Mercantile (PRS): Better prices and bartering.
+	- Apprentice: *You can accurately appraise the value of most common items. Negotiating doesn't require a PRS save.*
+	- Journeyman: *You can sell nearly any good to nearly any dealer; specialty vendors still have better prices, though. You can also find a dealer for nearly any good.*
+	- Expert: *You can accurately appraise the value of nearly any item, regardless of rarity. Shopkeepers will open their secret stock to you, if they have one.*
 
-Security (AGL): Picking locks and getting past security measures.
-	Apprentice: *You can pick Apprentice-level locks without disadvantage, and lower locks are at advantage.*
-	Journeyman: *You can pick Journeyman-level locks without disadvantage, and lower locks are at advantage. You can disarm traps in a way that can be re-armed.*
-	Expert: *You can pick Expert-level locks without disadvantage, and lower locks are at advantage. You are able to clone a key from any lock you pick.*
+- Security (AGL): Picking locks and getting past security measures.
+	- Apprentice: *You can pick Apprentice-level locks without disadvantage, and lower locks are at advantage.*
+	- Journeyman: *You can pick Journeyman-level locks without disadvantage, and lower locks are at advantage. You can disarm traps in a way that can be re-armed.*
+	- Expert: *You can pick Expert-level locks without disadvantage, and lower locks are at advantage. You are able to clone a key from any lock you pick.*
 
-Sneak (AGL): Using stealth and performing sneak attacks.
-	Apprentice: *Add extra damage equal to your AGL bonus when attacking from stealth.*
-	Journeyman: *You can sneak even in heavy boots. You do not trigger floor-based traps.*
-	Expert: *You can sneak even when running. An attack from stealth is an automatic Critical Hit.*
+- Sneak (AGL): Using stealth and performing sneak attacks.
+	- Apprentice: *Add extra damage equal to your AGL bonus when attacking from stealth.*
+	- Journeyman: *You can sneak even in heavy boots. You do not trigger floor-based traps.*
+	- Expert: *You can sneak even when running. An attack from stealth is an automatic Critical Hit.*
 
-Speechcraft (PRS): Weaving convincing lies and persuasion.
-	Apprentice: *You can tell convincing stories and engage in persuasive debate without needing a save. People might not hate you.*
-	Journeyman: *You can roll a PRS save to modify the result of a Reaction Roll by one step. People will generally like you.
-	Expert: *You're able to tell truly tall tales without many questioning you, and can intimidate all but the strongest-willed of people. People will usually love you.*
+- Speechcraft (PRS): Weaving convincing lies and persuasion.
+	- Apprentice: *You can tell convincing stories and engage in persuasive debate without needing a save. People might not hate you.*
+	- Journeyman: *You can roll a PRS save to modify the result of a Reaction Roll by one step. People will generally like you.
+	- Expert: *You're able to tell truly tall tales without many questioning you, and can intimidate all but the strongest-willed of people. People will usually love you.*
 
 **Combat**
-Athletics (SPD): Able to perform athletic feats.
-	Apprentice: *Able to perform some more difficult feats of athleticism, i.e. lifting a large weight.*
-	Journeyman: *Able to perform very difficult athletic feats, such as climbing a sheer rock face.*
-	Expert: *Able to perform nearly impossible tasks, such as throwing a large creature.*
+- Athletics (SPD): Able to perform athletic feats.
+	- Apprentice: *Able to perform some more difficult feats of athleticism, i.e. lifting a large weight.*
+	- Journeyman: *Able to perform very difficult athletic feats, such as climbing a sheer rock face.*
+	- Expert: *Able to perform nearly impossible tasks, such as throwing a large creature.*
 
-Armorer (END): Creating and repairing weapons, armor, and equipment.
-	Apprentice: *Able to make and enhance basic weapons, armor, and tools.*
-	Journeyman: *Able to make and enhance higher quality equipment, as well as repair and enchant magic items*.
-	Expert: *Able to create truly exceptional equipment.*
+- Armorer (END): Creating and repairing weapons, armor, and equipment.
+	- Apprentice: *Able to make and enhance basic weapons, armor, and tools.*
+	- Journeyman: *Able to make and enhance higher quality equipment, as well as repair and enchant magic items*.
+	- Expert: *Able to create truly exceptional equipment.*
 
-Blade (STR): Using edged weapons effectively.
-	Apprentice: *+1 damage with Blade weapons.*
-	Journeyman: *+1 to-hit with Blade weapons, can attack all enemies in an "arc".*
-	Expert: *A critical hit will disarm the opponent. Blade attacks have a 2-in-6 chance to incur Bleeding.*
+- Blade (STR): Using edged weapons effectively.
+	- Apprentice: *+1 damage with Blade weapons.*
+	- Journeyman: *+1 to-hit with Blade weapons, can attack all enemies in an "arc".*
+	- Expert: *A critical hit will disarm the opponent. Blade attacks have a 2-in-6 chance to incur Bleeding.*
 	
-Block (END): Blocking and parrying damage.
-	Apprentice: *Use action to Block: Reduce damage taken by Armor Bonus.*
-	Journeyman: *On a successful block, deal END Bonus damage to opponent.*
-	Expert: *Shield doesn't take quality damage from blocking.*
+- Block (END): Blocking and parrying damage.
+	- Apprentice: *Use action to Block: Reduce damage taken by Armor Bonus.*
+	- Journeyman: *On a successful block, deal END Bonus damage to opponent.*
+	- Expert: *Shield doesn't take quality damage from blocking.*
 	
-Blunt (STR): Sundering armor with impact weapons.
-	Apprentice: *+1 to-hit with Blunt weapons.*
-	Journeyman: *On a successful hit, reduce enemy Armor quality by STR Bonus.*
-	Expert: *A critical hit will paralyze the opponent. Blunt attacks have a 1-in-6 chance to destroy the opponent's armor entirely.*
+- Blunt (STR): Sundering armor with impact weapons.
+	- Apprentice: *+1 to-hit with Blunt weapons.*
+	- Journeyman: *On a successful hit, reduce enemy Armor quality by STR Bonus.*
+	- Expert: *A critical hit will paralyze the opponent. Blunt attacks have a 1-in-6 chance to destroy the opponent's armor entirely.*
 	
-Hand to Hand (STR): Using hands and feet as weapons.
-	Apprentice: *Add STR Bonus to Hand to Hand damage.*
-	Journeyman: *Each successful hit adds Fatigue.*
-	Expert: *A critical hit will knock the opponent down. You can attack with Hand to Hand twice in one turn.*
+- Hand to Hand (STR): Using hands and feet as weapons.
+	- Apprentice: *Add STR Bonus to Hand to Hand damage.*
+	- Journeyman: *Each successful hit adds Fatigue.*
+	- Expert: *A critical hit will knock the opponent down. You can attack with Hand to Hand twice in one turn.*
 
-Heavy Armor (END): More protection at the cost of weight and encumberance.
-	Apprentice: *+1 Armor when wearing Heavy Armor.*
-	Journeyman: *Worn Heavy Armor gains 2 quality points.*
-	Expert: *Heavy Armor is no longer Bulky.*
+- Heavy Armor (END): More protection at the cost of weight and encumberance.
+	- Apprentice: *+1 Armor when wearing Heavy Armor.*
+	- Journeyman: *Worn Heavy Armor gains 2 quality points.*
+	- Expert: *Heavy Armor is no longer Bulky.*
 
 **Magic**
-Alchemy (INT): Crafting potions and poisons from natural ingredients.
-	Apprentice: *Able to create basic potions and poisons, as well as gather more ingredients.*
-	Journeyman: *Able to create more advanced mixtures, as well as specify their form (powder, oil, tonic, etc).*
-	Expert: *Able to create very effective potions and deadly poisons.*
+- Alchemy (INT): Crafting potions and poisons from natural ingredients.
+	- Apprentice: *Able to create basic potions and poisons, as well as gather more ingredients.*
+	- Journeyman: *Able to create more advanced mixtures, as well as specify their form (powder, oil, tonic, etc).*
+	- Expert: *Able to create very effective potions and deadly poisons.*
 
-Alteration (WIL): Mastery of spells from the Alteration school.
-	Apprentice: *Learn two Alteration spells. When casting Alteration spells, MD return to your Magicka Reserves on a 1-4.*
-	Journeyman: *Each time you're hit by a spell, roll one of your depleted MD: on a 1-3, return it to your Magicka Reserves.*
-	Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Alteration spells. Alteration spell effects last twice as long.*
+- Alteration (WIL): Mastery of spells from the Alteration school.
+	- Apprentice: *Learn two Alteration spells. When casting Alteration spells, MD return to your Magicka Reserves on a 1-4.*
+	- Journeyman: *Each time you're hit by a spell, roll one of your depleted MD: on a 1-3, return it to your Magicka Reserves.*
+	- Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Alteration spells. Alteration spell effects last twice as long.*
 
-Conjuration (INT): Extra MD when casting Conjuration spells.
-	Apprentice: *Learn two Conjuration spells. When casting Conjuration spells, MD return to your Magicka Reserves on a 1-4.*
-	Journeyman: *Bound Items last twice as long. Summoned undead have twice as much health.
-	Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Conjuration spells. Your summons last twice as long.*
+- Conjuration (INT): Extra MD when casting Conjuration spells.
+	- Apprentice: *Learn two Conjuration spells. When casting Conjuration spells, MD return to your Magicka Reserves on a 1-4.*
+	- Journeyman: *Bound Items last twice as long. Summoned undead have twice as much health.*
+	- Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Conjuration spells. Your summons last twice as long.*
 
-Destruction (WIL): Additional damage when casting Destruction spells.
-	Apprentice: *Learn two Destruction spells. When casting Destruction spells, MD return to your Magicka Reserves on a 1-4.*
-	Journeyman: *Choose Fire, Frost, or Shock: an additional effect is applied when you damage an enemy with a Destruction spell of that type (i.e. Fire sets people aflame, Shock can disintegrate).*
-	Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Destruction spells. Destruction spells affect twice the usual area.*
+- Destruction (WIL): Additional damage when casting Destruction spells.
+	- Apprentice: *Learn two Destruction spells. When casting Destruction spells, MD return to your Magicka Reserves on a 1-4.*
+	- Journeyman: *Choose Fire, Frost, or Shock: an additional effect is applied when you damage an enemy with a Destruction spell of that type (i.e. Fire sets people aflame, Shock can disintegrate).*
+	- Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Destruction spells. Destruction spells affect twice the usual area.*
 
-Illusion (PRS): Extra MD when casting Illusion spells.
-	Apprentice: *Learn two Illusion spells. When casting Illusion spells, MD return to your Magicka Reserves on a 1-4.*
-	Journeyman: *Your Illusion spells are silent and produce no visual indicators of being cast.*
-	Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Illusion spells. Illusion spells work on undead, daedra, automatons, and other non-human entities.*
+- Illusion (PRS): Extra MD when casting Illusion spells.
+	- Apprentice: *Learn two Illusion spells. When casting Illusion spells, MD return to your Magicka Reserves on a 1-4.*
+	- Journeyman: *Your Illusion spells are silent and produce no visual indicators of being cast.*
+	- Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Illusion spells. Illusion spells work on undead, daedra, automatons, and other non-human entities.*
 
-Mysticism (INT): Extra MD when casting Mysticism spells.
-	Apprentice: *Learn two Mysticism spells. When casting Mysticism spells, MD return to your Magicka Reserves on a 1-4.*
-	Journeyman: *You can break a filled Soul Gem to move two depleted MD to your Magicka Reserves.*
-	Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Mysticism spells. Mysticism spells have a chance of changing part of the environment permanently.*
+- Mysticism (INT): Extra MD when casting Mysticism spells.
+	- Apprentice: *Learn two Mysticism spells. When casting Mysticism spells, MD return to your Magicka Reserves on a 1-4.*
+	- Journeyman: *You can break a filled Soul Gem to move two depleted MD to your Magicka Reserves.*
+	- Expert: *+2 MD to your Magicka Reserves; these MD can only be spent on Mysticism spells. Mysticism spells have a chance of changing part of the environment permanently.*
 
-Restoration (WIL): Additional healing from Restoration spells.
-	Apprentice: *Learn two Restoration spells. When casting Restoration spells, MD return to your Magicka Reserves on a 1-4.*
-	Journeyman: *Whenever you cast a Restoration spell on someone else, you regain \[DICE\] HP.*
-	Expert: *2 MD to your Magicka Reserves; these MD can only be spent on Restoration spells. Healing spells heal for an additional amount of HP equal to your Level.*
+- Restoration (WIL): Additional healing from Restoration spells.
+	- Apprentice: *Learn two Restoration spells. When casting Restoration spells, MD return to your Magicka Reserves on a 1-4.*
+	- Journeyman: *Whenever you cast a Restoration spell on someone else, you regain \[DICE\] HP.*
+	- Expert: *2 MD to your Magicka Reserves; these MD can only be spent on Restoration spells. Healing spells heal for an additional amount of HP equal to your Level.*
 
 ## Gameplay
 
