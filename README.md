@@ -149,7 +149,7 @@ When you choose a class, choose two skills or roll a d8 twice (a result of 8=cho
 
 - Speechcraft (PRS): Weaving convincing lies and persuasion.
 	- Apprentice: *You can tell convincing stories and engage in persuasive debate without needing a save. People might not hate you.*
-	- Journeyman: *You can roll a PRS save to modify the result of a Reaction Roll by one step. People will generally like you.
+	- Journeyman: *You can roll a PRS save to modify the result of a Reaction Roll by one step. People will generally like you.*
 	- Expert: *You're able to tell truly tall tales without many questioning you, and can intimidate all but the strongest-willed of people. People will usually love you.*
 
 **Combat**
